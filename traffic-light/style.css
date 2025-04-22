@@ -1,0 +1,45 @@
+.main{
+    background-color: grey;
+ height: 400px; 
+ width: 105px; 
+border-radius: 15px;
+}
+
+#cirlce1{
+    background-color:red ;
+    height:100px;
+    width:100px;
+    border-radius:50% ;
+     border:2px solid black;
+}
+#cirlce1:hover{
+    background-color:aqua;
+  cursor: pointer;
+}
+
+#cirlce2{
+    background-color:yellow ;
+    height:100px;
+    width:100px;
+    border-radius:50% ;
+     border:2px solid black;
+}
+#cirlce2:hover{
+    background-color:orangered;
+  cursor: pointer;
+}
+
+
+
+#cirlce3{
+    background-color:green ;
+    height:100px;
+    width:100px;
+    border-radius:50% ;
+     border:2px solid black;
+}
+
+#cirlce3:hover{
+    background-color:rgb(212, 35, 65);
+  cursor: pointer;
+}
